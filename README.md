@@ -25,3 +25,10 @@
   -[oneAway.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/oneAway.py)- Check to see if two strings are one edit away from being equal.
   
   -[stringCompression.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/stringCompression.py)- Perform basic string compression using the counts of repeated characters.
+
+
+## LinkedLists
+  ### This folder contains solutions to common Linked Lists related interview problems.
+  -[doublylinkedlist.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/doublylinkedlist.py)- Python implementation of a Doubly Linked List to use for Linked List related problems.
+  
+  -[removeDups.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/removeDups.py)- Remove duplicates from a Linked List
