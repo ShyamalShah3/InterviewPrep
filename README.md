@@ -1,6 +1,6 @@
 # InterviewPrep
 
-This Repository contains python implementation of data structures and common interview preparation problems.
+### This Repository contains python implementation of data structures and common interview preparation problems.
 
 ## DataStructures
   ### This folder contains python implementations of data structures.
