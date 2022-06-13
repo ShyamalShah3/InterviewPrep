@@ -26,7 +26,7 @@ def removeDups2(ll: LinkedList) -> None:
     """
     This method removes duplicates from a linked list in O(n^2) time using O(1) space.
     :param ll: Linked list to remove duplicates from
-    :return:
+    :return: None.
     """
     itr1 = ll.head  # set first pointer
     while itr1:
