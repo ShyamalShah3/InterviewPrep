@@ -12,6 +12,8 @@
 
 ## HashingAndArrays
   ### This folder contains solutions to common Hashing/Array/String related interview problems.
+  -[containsDuplicate.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/containsduplicate.py)- Check to see if a list of integers contains a duplicate.
+  
   -[isUnique.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/isUnique.py)- Determine if a string has all unique characters.
   
   -[check_permutation.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/check_permutation.py)- Check to see if two strings are permutations of each other.
