@@ -20,7 +20,7 @@
   
   -[URLify.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/URLify.py)- Replace all spaces in a string with "%20".
   
-  -[palindrome_permutation.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/palindrome_permutation.py)- Check to see if a string is a permutation of a palindrome.
+  -[palindrome_permutation.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/palindrome_permuation.py)- Check to see if a string is a permutation of a palindrome.
   
   -[oneAway.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/HashingAndArrays/oneAway.py)- Check to see if two strings are one edit away from being equal.
   
