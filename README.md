@@ -29,7 +29,8 @@
 
 ## LinkedLists
   ### This folder contains solutions to common Linked Lists related interview problems.
-    -[singlylinkedlist.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/singlylinkedlist.py) - Python implementation of a Singly Linked List to use for Linked List related problems.
+  
+  -[singlylinkedlist.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/singlylinkedlist.py) - Python implementation of a Singly Linked List to use for Linked List related problems.
   
   -[doublylinkedlist.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/doublylinkedlist.py) - Python implementation of a Doubly Linked List to use for Linked List related problems.
   
