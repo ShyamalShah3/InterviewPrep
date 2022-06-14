@@ -4,7 +4,8 @@ from singlylinkedlist import Node
 
 def kth_last(k: int, ll: LinkedList) -> Node:
     """
-    This method returns the kth to last node in the singly linked list, ll.
+    This method returns the kth to last node in the singly linked list, ll. This code runs in O(n) time
+    and has a space complexity of O(1)
     :param k: The kth to last node to find in the Linked List, ll. 1 < k <= len(ll)
     :param ll: The Singly Linked List to find the kth last value in.
     :return: The kth to last node in the Linked List, ll.
