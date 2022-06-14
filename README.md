@@ -29,6 +29,10 @@
 
 ## LinkedLists
   ### This folder contains solutions to common Linked Lists related interview problems.
+    -[singlylinkedlist.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/singlylinkedlist.py) - Python implementation of a Singly Linked List to use for Linked List related problems.
+  
   -[doublylinkedlist.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/doublylinkedlist.py) - Python implementation of a Doubly Linked List to use for Linked List related problems.
   
-  -[removeDups.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/removeDups.py) - Remove duplicates from a Linked List
+  -[removeDups.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/removeDups.py) - Remove duplicates from a Doubly Linked List
+  
+  -[kthLast.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/kthLast.py) - Return the kth to last node from a Singly Linked List.
