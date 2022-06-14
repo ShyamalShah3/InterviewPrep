@@ -37,3 +37,5 @@
   -[removeDups.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/removeDups.py) - Remove duplicates from a Doubly Linked List
   
   -[kthLast.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/kthLast.py) - Return the kth to last node from a Singly Linked List.
+  
+  -[deleteMiddle.py](https://github.com/ShyamalShah3/InterviewPrep/blob/main/LinkedLists/deleteMiddle.py) - Deletes a middle node of a singly linked list while only given access to the node that must be deleted.
